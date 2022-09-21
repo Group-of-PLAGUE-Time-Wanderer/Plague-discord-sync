@@ -117,4 +117,4 @@ async def on_message(message):
 
 
 # Run the bot
-bot.run("OTEwOTU2ODUzMTM4MTgyMTY0.YZaYrg._K2k7jUZ23f_ilFUtqUEOt2xhIA")
+bot.run("No token")
