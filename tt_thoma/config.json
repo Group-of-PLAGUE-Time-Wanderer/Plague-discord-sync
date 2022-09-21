@@ -1,0 +1,15 @@
+{ "webhooks": {
+    "fr": "",
+    "en": ""
+  },
+  "IDs": {
+    "bot": 0,
+    "fr_channel": 0,
+    "en_channel": 0,
+    "logging_channel": 0
+  },
+  "logs": {
+    "filename": "Discord_Bot",
+    "timestamps": true
+  }
+}
